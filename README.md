@@ -2,7 +2,7 @@
 
 # Writing Directions in Markdown
 
-Choose your topic. Write a short intro to your subject. Make sure it’s professional and that you write between 8 to 12 steps. One sentence each following the advice in ETC 
+Choose your topic--make sure it’s professional. Write a short intro to your subject and then write between 8 to 12 steps, one sentence each following the advice in ETC
 
 ## Get started!
 
@@ -17,3 +17,4 @@ Choose your topic. Write a short intro to your subject. Make sure it’s profess
 5. Add .md file.
 
 6. Share repository link to Canvas. 
+
