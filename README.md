@@ -1,6 +1,6 @@
 # directions-example
 
-#Writing Directions in Markup
+# Writing Directions in Markup
 
 Choose your topic. Write a short intro to your subject. Make sure it’s professional and that you write between 8 to 12 steps. One sentence each following the advice in ETC 
 
