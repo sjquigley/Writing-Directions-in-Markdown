@@ -1,5 +1,3 @@
-# directions-example
-
 # Writing Directions in Markdown
 
 Choose your topic--make sure it’s professional. Write a short intro to your subject and then write between 8 to 12 steps, one sentence each following the advice in ETC
@@ -20,14 +18,17 @@ Choose your topic--make sure it’s professional. Write a short intro to your su
 
 
 Student Samples:
+[Cross-stitch] (https://github.com/chloeccmt/Cross-Stitch)
+[Forecasting with Facebook Prophet in Python Notebook in Google Colab] (https://github.com/als429/600/blob/main/assignments/3/directions.md)
 
-Cross-stitch
 
 
 
-https://github.com/chloeccmt/Cross-Stitch
 
-https://github.com/als429/600/blob/main/assignments/3/directions.md
+
+
+
+
 
 
 
