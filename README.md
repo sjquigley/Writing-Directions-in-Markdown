@@ -18,9 +18,10 @@ Choose your topic--make sure it’s professional. Write a short intro to your su
 
 
 Student Samples:
-[Cross-stitch](https://github.com/chloeccmt/Cross-Stitch)
 
-[Forecasting with Facebook Prophet in Python Notebook in Google Colab](https://github.com/als429/600/blob/main/assignments/3/directions.md)
+-[Learn to Cross-stitch](https://github.com/chloeccmt/Cross-Stitch)
+
+-[Forecasting with Facebook Prophet in Python Notebook in Google Colab](https://github.com/als429/600/blob/main/assignments/3/directions.md)
 
 
 
