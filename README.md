@@ -4,7 +4,7 @@ Choose your topic--make sure it’s professional. Write a short intro to your su
 
 ## Get started!
 
-1. Create a new Markdown file using a Markdown editor like [MacDown](https://github.com/MacDownApp) or [Dillinger](https://dillinger.io). Learn the basic conventions of writing/editing Markdown files. [Learn more here](https://daringfireball.net/projects/markdown/). 
+1. Create a new Markdown file using a Markdown editor like [MacDown](https://github.com/MacDownApp) or [Dillinger](https://dillinger.io). Learn the basic conventions of writing/editing Markdown files: [MarkDown Reference](https://daringfireball.net/projects/markdown/). 
 
 2. Write your directions following advice in ETC Ch 4 & 10 (pp. 254-259). 
 
