@@ -8,7 +8,7 @@ Choose your topic--make sure it’s professional. Write a short intro to your su
 
 1. Create a new Markdown file using a Markdown editor like [MacDown] (https://github.com/MacDownApp) or [Dillinger] (https://dillinger.io). Learn the basic conventions of writing/editing Markdown files. [Learn more here] (https://daringfireball.net/projects/markdown/). 
 
-2. Write your directions following advice in ETC Ch 4 & 10 (254-259) 
+2. Write your directions following advice in ETC Ch 4 & 10 (pp. 254-259). 
 
 3. Go to GitHub.
 
@@ -17,4 +17,14 @@ Choose your topic--make sure it’s professional. Write a short intro to your su
 5. Add .md file.
 
 6. Share repository link to Canvas. 
+
+
+Student Samples:
+
+https://github.com/chloeccmt/Cross-Stitch
+
+https://github.com/als429/600/blob/main/assignments/3/directions.md
+
+
+
 
