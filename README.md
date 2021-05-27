@@ -22,7 +22,6 @@ Choose your topic--make sure it’s professional. Write a short intro to your su
 Student Samples:
 
 https://github.com/chloeccmt/Cross-Stitch
-
 https://github.com/als429/600/blob/main/assignments/3/directions.md
 
 
